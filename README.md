@@ -9,7 +9,7 @@ Design and Simulation of a Microstrip Patch Antenna using using Ansys HFSS
 
 To design and simulate a rectangular microstrip patch antenna at a specified resonant frequency using Ansys HFSS, and to study its return loss, VSWR, bandwidth, gain and radiation pattern.
 
-## Software Used
+## Software Used 
 
 Ansys HFSS (High Frequency Structure Simulator)
 
@@ -127,14 +127,9 @@ This experiment uses the **inset microstrip line feed** (or coaxial probe feed, 
 ### Graphs
 
 
-* S11 vs frequency
-*(Include your own graph)*
+<img width="1200" height="1600" alt="WhatsApp Image 2026-09-19 at 10 38 51 AM (3)" src="https://github.com/user-attachments/assets/a447add3-1c4a-4557-a060-7a0d8ca02438" />
+<img width="1200" height="1600" alt="WhatsApp Image 2026-09-19 at 10 38 51 AM (4)" src="https://github.com/user-attachments/assets/7e785f3b-e1ce-409d-bc76-ff9a62f8e3a2" />
 
-* VSWR vs frequency
-*(Include your own graph)*
-
-* 2-D E-plane and H-plane radiation patterns
-*(Include your own graph)*
 
 
 ---
